@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "test_node = robot.my_first_node:main"
+            "test_node = robot_lidar.my_first_node:main"
         ],
     },
 )
