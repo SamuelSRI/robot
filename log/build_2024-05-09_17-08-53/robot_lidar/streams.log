@@ -1,0 +1,21 @@
+[0.554s] Invoking command in '/home/sam/Bureau/projet1A/robot/build/robot_lidar': PYTHONPATH=/home/sam/Bureau/projet1A/robot/build/robot_lidar/prefix_override:/home/sam/Bureau/projet1A/robot/install/robot_lidar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sam/Bureau/projet1A/robot/build/robot_lidar/build --no-deps symlink_data --force
+[0.800s] running develop
+[0.801s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.801s]   warnings.warn(
+[0.949s] running egg_info
+[0.949s] writing robot_lidar.egg-info/PKG-INFO
+[0.950s] writing dependency_links to robot_lidar.egg-info/dependency_links.txt
+[0.950s] writing entry points to robot_lidar.egg-info/entry_points.txt
+[0.950s] writing requirements to robot_lidar.egg-info/requires.txt
+[0.950s] writing top-level names to robot_lidar.egg-info/top_level.txt
+[0.951s] reading manifest file 'robot_lidar.egg-info/SOURCES.txt'
+[0.952s] writing manifest file 'robot_lidar.egg-info/SOURCES.txt'
+[0.953s] running build_ext
+[0.953s] Creating /home/sam/Bureau/projet1A/robot/install/robot_lidar/lib/python3.10/site-packages/robot-lidar.egg-link (link to .)
+[0.954s] Installing test_node script to /home/sam/Bureau/projet1A/robot/install/robot_lidar/lib/robot_lidar
+[0.954s] 
+[0.955s] Installed /home/sam/Bureau/projet1A/robot/build/robot_lidar
+[0.955s] running symlink_data
+[0.955s] symbolically linking /home/sam/Bureau/projet1A/robot/build/robot_lidar/resource/robot_lidar -> /home/sam/Bureau/projet1A/robot/install/robot_lidar/share/ament_index/resource_index/packages
+[0.955s] symbolically linking /home/sam/Bureau/projet1A/robot/build/robot_lidar/package.xml -> /home/sam/Bureau/projet1A/robot/install/robot_lidar/share/robot_lidar
+[0.978s] Invoked command in '/home/sam/Bureau/projet1A/robot/build/robot_lidar' returned '0': PYTHONPATH=/home/sam/Bureau/projet1A/robot/build/robot_lidar/prefix_override:/home/sam/Bureau/projet1A/robot/install/robot_lidar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sam/Bureau/projet1A/robot/build/robot_lidar/build --no-deps symlink_data --force

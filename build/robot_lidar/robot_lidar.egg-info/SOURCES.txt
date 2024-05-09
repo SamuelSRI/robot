@@ -11,6 +11,10 @@ setup.py
 resource/robot_lidar
 robot_lidar/__init__.py
 robot_lidar/my_first_node.py
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
+robot_lidar.egg-info/PKG-INFO
+robot_lidar.egg-info/SOURCES.txt
+robot_lidar.egg-info/dependency_links.txt
+robot_lidar.egg-info/entry_points.txt
+robot_lidar.egg-info/requires.txt
+robot_lidar.egg-info/top_level.txt
+robot_lidar.egg-info/zip-safe
