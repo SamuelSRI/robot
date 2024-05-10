@@ -1,0 +1,33 @@
+[0.536s] Invoking command in '/home/sam/Bureau/projet1A/robot/src/lidar': PYTHONPATH=/home/sam/Bureau/projet1A/robot/build/lidar/prefix_override:/home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar build --build-base /home/sam/Bureau/projet1A/robot/build/lidar/build install --record /home/sam/Bureau/projet1A/robot/build/lidar/install.log --single-version-externally-managed install_data
+[0.752s] running egg_info
+[0.753s] creating ../../build/lidar/lidar.egg-info
+[0.753s] writing ../../build/lidar/lidar.egg-info/PKG-INFO
+[0.753s] writing dependency_links to ../../build/lidar/lidar.egg-info/dependency_links.txt
+[0.753s] writing entry points to ../../build/lidar/lidar.egg-info/entry_points.txt
+[0.753s] writing requirements to ../../build/lidar/lidar.egg-info/requires.txt
+[0.753s] writing top-level names to ../../build/lidar/lidar.egg-info/top_level.txt
+[0.754s] writing manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[0.755s] reading manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[0.755s] writing manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[0.756s] running build
+[0.756s] running build_py
+[0.756s] creating /home/sam/Bureau/projet1A/robot/build/lidar/build
+[0.756s] creating /home/sam/Bureau/projet1A/robot/build/lidar/build/lib
+[0.756s] creating /home/sam/Bureau/projet1A/robot/build/lidar/build/lib/lidar
+[0.756s] copying lidar/__init__.py -> /home/sam/Bureau/projet1A/robot/build/lidar/build/lib/lidar
+[0.756s] running install
+[0.756s] running install_lib
+[0.757s] creating /home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages/lidar
+[0.757s] copying /home/sam/Bureau/projet1A/robot/build/lidar/build/lib/lidar/__init__.py -> /home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages/lidar
+[0.757s] byte-compiling /home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages/lidar/__init__.py to __init__.cpython-310.pyc
+[0.757s] running install_data
+[0.757s] creating /home/sam/Bureau/projet1A/robot/install/lidar/share/ament_index
+[0.758s] creating /home/sam/Bureau/projet1A/robot/install/lidar/share/ament_index/resource_index
+[0.758s] creating /home/sam/Bureau/projet1A/robot/install/lidar/share/ament_index/resource_index/packages
+[0.758s] copying resource/lidar -> /home/sam/Bureau/projet1A/robot/install/lidar/share/ament_index/resource_index/packages
+[0.758s] copying package.xml -> /home/sam/Bureau/projet1A/robot/install/lidar/share/lidar
+[0.758s] running install_egg_info
+[0.759s] Copying ../../build/lidar/lidar.egg-info to /home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages/lidar-0.0.0-py3.10.egg-info
+[0.760s] running install_scripts
+[0.778s] writing list of installed files to '/home/sam/Bureau/projet1A/robot/build/lidar/install.log'
+[0.797s] Invoked command in '/home/sam/Bureau/projet1A/robot/src/lidar' returned '0': PYTHONPATH=/home/sam/Bureau/projet1A/robot/build/lidar/prefix_override:/home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar build --build-base /home/sam/Bureau/projet1A/robot/build/lidar/build install --record /home/sam/Bureau/projet1A/robot/build/lidar/install.log --single-version-externally-managed install_data

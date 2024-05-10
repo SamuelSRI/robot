@@ -1,0 +1,4 @@
+source;share/mapping_pfr3/local_setup.bash
+source;share/mapping_pfr3/local_setup.dsv
+source;share/mapping_pfr3/local_setup.sh
+source;share/mapping_pfr3/local_setup.zsh
