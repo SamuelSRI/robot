@@ -1,0 +1,2 @@
+Invoking command in '/home/sam/Bureau/projet1A/robot/build/mapping_pfr3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/mapping -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/mapping_pfr3
+Invoked command in '/home/sam/Bureau/projet1A/robot/build/mapping_pfr3' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/mapping -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/mapping_pfr3

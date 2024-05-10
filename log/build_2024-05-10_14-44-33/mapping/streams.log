@@ -1,0 +1,28 @@
+[0.008s] Invoking command in '/home/sam/Bureau/projet1A/robot/build/mapping': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/mapping -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/mapping
+[0.050s] -- The C compiler identification is GNU 11.4.0
+[0.095s] -- The CXX compiler identification is GNU 11.4.0
+[0.101s] -- Detecting C compiler ABI info
+[0.156s] -- Detecting C compiler ABI info - done
+[0.163s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.163s] -- Detecting C compile features
+[0.164s] -- Detecting C compile features - done
+[0.166s] -- Detecting CXX compiler ABI info
+[0.232s] -- Detecting CXX compiler ABI info - done
+[0.240s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.241s] -- Detecting CXX compile features
+[0.241s] -- Detecting CXX compile features - done
+[0.243s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.374s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.447s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.501s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.501s]   ament_package_xml() package name 'mapping' in '/package.xml' does not match
+[0.501s]   current PROJECT_NAME 'mapping_pfr3'.  You must call project() with the same
+[0.501s]   package name before.
+[0.501s] Call Stack (most recent call first):
+[0.501s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.501s]   CMakeLists.txt:32 (ament_lint_auto_find_test_dependencies)
+[0.501s] 
+[0.501s] [0m
+[0.501s] -- Configuring incomplete, errors occurred!
+[0.501s] See also "/home/sam/Bureau/projet1A/robot/build/mapping/CMakeFiles/CMakeOutput.log".
+[0.505s] Invoked command in '/home/sam/Bureau/projet1A/robot/build/mapping' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/mapping -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/mapping
