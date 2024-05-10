@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sam/Bureau/projet1A/robot/build/robot_lidar",
+        "/home/sam/Bureau/projet1A/robot/install/robot_lidar/lib/python3.10/site-packages",
+        "/home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sam/Bureau/projet1A/robot/build/robot_lidar",
+        "/home/sam/Bureau/projet1A/robot/install/robot_lidar/lib/python3.10/site-packages",
+        "/home/sam/Bureau/projet1A/robot/install/lidar/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
