@@ -1,0 +1,2 @@
+Invoking command in '/home/piero/robot/build/mapping_pfr3': CMAKE_PREFIX_PATH=/opt/ros/humble /home/piero/.local/bin/cmake /home/piero/robot/src/mapping -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/piero/robot/install/mapping_pfr3
+Invoked command in '/home/piero/robot/build/mapping_pfr3' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /home/piero/.local/bin/cmake /home/piero/robot/src/mapping -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/piero/robot/install/mapping_pfr3
