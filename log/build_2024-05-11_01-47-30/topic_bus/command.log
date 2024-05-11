@@ -1,0 +1,6 @@
+Invoking command in '/home/sam/Bureau/projet1A/robot/build/topic_bus': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/topic_bus -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/topic_bus
+Invoked command in '/home/sam/Bureau/projet1A/robot/build/topic_bus' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/topic_bus -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/topic_bus
+Invoking command in '/home/sam/Bureau/projet1A/robot/build/topic_bus': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sam/Bureau/projet1A/robot/build/topic_bus -- -j8 -l8
+Invoked command in '/home/sam/Bureau/projet1A/robot/build/topic_bus' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sam/Bureau/projet1A/robot/build/topic_bus -- -j8 -l8
+Invoking command in '/home/sam/Bureau/projet1A/robot/build/topic_bus': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sam/Bureau/projet1A/robot/build/topic_bus
+Invoked command in '/home/sam/Bureau/projet1A/robot/build/topic_bus' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sam/Bureau/projet1A/robot/build/topic_bus

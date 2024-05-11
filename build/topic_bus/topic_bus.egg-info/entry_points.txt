@@ -1,0 +1,3 @@
+[console_scripts]
+topic_bus = topic_bus.topic_bus:main
+

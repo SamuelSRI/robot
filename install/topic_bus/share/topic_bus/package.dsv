@@ -1,0 +1,9 @@
+source;share/topic_bus/hook/cmake_prefix_path.ps1
+source;share/topic_bus/hook/cmake_prefix_path.dsv
+source;share/topic_bus/hook/cmake_prefix_path.sh
+source;share/topic_bus/hook/pythonpath.ps1
+source;share/topic_bus/hook/pythonpath.dsv
+source;share/topic_bus/hook/pythonpath.sh
+source;share/topic_bus/hook/ament_prefix_path.ps1
+source;share/topic_bus/hook/ament_prefix_path.dsv
+source;share/topic_bus/hook/ament_prefix_path.sh

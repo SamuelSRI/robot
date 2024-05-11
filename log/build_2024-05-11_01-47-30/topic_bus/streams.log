@@ -1,0 +1,42 @@
+[0.013s] Invoking command in '/home/sam/Bureau/projet1A/robot/build/topic_bus': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/topic_bus -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/topic_bus
+[0.060s] -- The C compiler identification is GNU 11.4.0
+[0.112s] -- The CXX compiler identification is GNU 11.4.0
+[0.121s] -- Detecting C compiler ABI info
+[0.177s] -- Detecting C compiler ABI info - done
+[0.184s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.184s] -- Detecting C compile features
+[0.185s] -- Detecting C compile features - done
+[0.187s] -- Detecting CXX compiler ABI info
+[0.255s] -- Detecting CXX compiler ABI info - done
+[0.262s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.262s] -- Detecting CXX compile features
+[0.263s] -- Detecting CXX compile features - done
+[0.265s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.399s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.482s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.560s] -- Added test 'lint_cmake' to check CMake code style
+[0.561s] -- Added test 'xmllint' to check XML markup files
+[0.562s] -- Configuring done
+[0.564s] -- Generating done
+[0.565s] -- Build files have been written to: /home/sam/Bureau/projet1A/robot/build/topic_bus
+[0.569s] Invoked command in '/home/sam/Bureau/projet1A/robot/build/topic_bus' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sam/Bureau/projet1A/robot/src/topic_bus -DCMAKE_INSTALL_PREFIX=/home/sam/Bureau/projet1A/robot/install/topic_bus
+[0.570s] Invoking command in '/home/sam/Bureau/projet1A/robot/build/topic_bus': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sam/Bureau/projet1A/robot/build/topic_bus -- -j8 -l8
+[0.601s] Invoked command in '/home/sam/Bureau/projet1A/robot/build/topic_bus' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sam/Bureau/projet1A/robot/build/topic_bus -- -j8 -l8
+[0.619s] Invoking command in '/home/sam/Bureau/projet1A/robot/build/topic_bus': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sam/Bureau/projet1A/robot/build/topic_bus
+[0.625s] -- Install configuration: ""
+[0.626s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/ament_index/resource_index/package_run_dependencies/topic_bus
+[0.626s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/ament_index/resource_index/parent_prefix_path/topic_bus
+[0.626s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/environment/ament_prefix_path.sh
+[0.626s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/environment/ament_prefix_path.dsv
+[0.626s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/environment/path.sh
+[0.627s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/environment/path.dsv
+[0.627s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/local_setup.bash
+[0.627s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/local_setup.sh
+[0.627s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/local_setup.zsh
+[0.627s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/local_setup.dsv
+[0.627s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/package.dsv
+[0.628s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/ament_index/resource_index/packages/topic_bus
+[0.628s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/cmake/topic_busConfig.cmake
+[0.628s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/cmake/topic_busConfig-version.cmake
+[0.628s] -- Installing: /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus/package.xml
+[0.630s] Invoked command in '/home/sam/Bureau/projet1A/robot/build/topic_bus' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sam/Bureau/projet1A/robot/build/topic_bus

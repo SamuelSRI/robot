@@ -1,0 +1,28 @@
+running egg_info
+creating ../../build/topic_bus/topic_bus.egg-info
+writing ../../build/topic_bus/topic_bus.egg-info/PKG-INFO
+writing dependency_links to ../../build/topic_bus/topic_bus.egg-info/dependency_links.txt
+writing entry points to ../../build/topic_bus/topic_bus.egg-info/entry_points.txt
+writing requirements to ../../build/topic_bus/topic_bus.egg-info/requires.txt
+writing top-level names to ../../build/topic_bus/topic_bus.egg-info/top_level.txt
+writing manifest file '../../build/topic_bus/topic_bus.egg-info/SOURCES.txt'
+reading manifest file '../../build/topic_bus/topic_bus.egg-info/SOURCES.txt'
+writing manifest file '../../build/topic_bus/topic_bus.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sam/Bureau/projet1A/robot/build/topic_bus/build
+creating /home/sam/Bureau/projet1A/robot/build/topic_bus/build/lib
+creating /home/sam/Bureau/projet1A/robot/build/topic_bus/build/lib/topic_bus
+copying topic_bus/__init__.py -> /home/sam/Bureau/projet1A/robot/build/topic_bus/build/lib/topic_bus
+running install
+running install_lib
+creating /home/sam/Bureau/projet1A/robot/install/topic_bus/lib/python3.10/site-packages/topic_bus
+copying /home/sam/Bureau/projet1A/robot/build/topic_bus/build/lib/topic_bus/__init__.py -> /home/sam/Bureau/projet1A/robot/install/topic_bus/lib/python3.10/site-packages/topic_bus
+byte-compiling /home/sam/Bureau/projet1A/robot/install/topic_bus/lib/python3.10/site-packages/topic_bus/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/topic_bus -> /home/sam/Bureau/projet1A/robot/install/topic_bus/share/ament_index/resource_index/packages
+copying package.xml -> /home/sam/Bureau/projet1A/robot/install/topic_bus/share/topic_bus
+running install_egg_info
+Copying ../../build/topic_bus/topic_bus.egg-info to /home/sam/Bureau/projet1A/robot/install/topic_bus/lib/python3.10/site-packages/topic_bus-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/sam/Bureau/projet1A/robot/build/topic_bus/install.log'

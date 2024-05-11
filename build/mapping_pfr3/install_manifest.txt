@@ -1,4 +1,5 @@
 /home/sam/Bureau/projet1A/robot/install/mapping_pfr3/share/mapping_pfr3/config/empty.yaml
+/home/sam/Bureau/projet1A/robot/install/mapping_pfr3/share/mapping_pfr3/config/my_controllers.yaml
 /home/sam/Bureau/projet1A/robot/install/mapping_pfr3/share/mapping_pfr3/description/inertial_macros.xacro
 /home/sam/Bureau/projet1A/robot/install/mapping_pfr3/share/mapping_pfr3/description/robot.urdf.xacro
 /home/sam/Bureau/projet1A/robot/install/mapping_pfr3/share/mapping_pfr3/description/robot_core.xacro
